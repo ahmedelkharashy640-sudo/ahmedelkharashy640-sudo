@@ -6,9 +6,18 @@
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 </details>
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<p align="center">
+  <a href="https://github.com/ahmedelkharashy640-sudo" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=flat&color=orange&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://ahmedelkharashy640-sudo.github.io/Dashboard/" target="_blank">
+    <img src="https://img.shields.io/badge/📊_View-Skills_Dashboard-7B2CBF?style=flat" alt="Skills Dashboard" />
+  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false" />
+  <a href="https://t.me/spxd007" target="_blank">
+    <img src="https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram" />
+  </a>
+</p>
 </div>
 <hr></hr>
 <h3 align="center">
