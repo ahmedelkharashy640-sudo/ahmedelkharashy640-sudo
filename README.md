@@ -1,14 +1,23 @@
-<div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=%2F%2F%20Hi%20Coders!%20👋%20I'm%20Ahmed%20Elkharashy%20-%20Frontend%20Developer&fontSize=18&animation=typing&fontColor=ffffff" width="100%" />
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
 <h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+<summary><b>Busy coding & Vibing to :</b></summary>
+<br>
+<a href="https://open.spotify.com/user/somnathpaul">
+  <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify" />
+</a>
 </details>
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=for-the-badge&color=00f5d4&label=PROFILE+VIEWS&label_color=18181b" />
+  <img src="https://img.shields.io/badge/HITS-Visitors-7b2cbf?style=for-the-badge&logo=fire&logoColor=white" />
+  <a href="https://t.me/spxd007">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 </div>
 <hr></hr>
 <h3 align="center">
@@ -82,6 +91,9 @@ Computer Science student at Damanhour University bridging **Frontend Development
 ### 🐍 Contribution Activity Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedelkharashy640-sudo/ahmedelkharashy640-sudo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,12&height=120&section=footer" width="100%" />
 </p>
 ---
 ### 💡 Daily Developer Quote
