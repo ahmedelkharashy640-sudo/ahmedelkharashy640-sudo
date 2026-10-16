@@ -1,17 +1,20 @@
-<div align="center" width="50">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=%2F%2F+Hi+Coders!+👋;%2F%2F+I'm+Ahmed+Elkharashy;%2F%2F+Frontend+Developer" alt="Typing SVG" />
-</a>
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
-<h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
-<details>
-<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-</details>
-![Totals Hits](https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=%2F%2F%20Hi%20Coders!%20👋%20I'm%20Ahmed%20Elkharashy%20-%20Frontend%20Developer&fontSize=18&animation=typing&fontColor=ffffff" width="100%" />
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
+  <h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
+  <details>
+  <summary><b>Busy coding & Vibing to :</b></summary>
+  <br>
+  <a href="https://open.spotify.com/user/somnathpaul">
+    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+  </details>
+  <br>
+  
+  ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=flat&color=orange&label=PROFILE+VIEWS)
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+  [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)
 </div>
 <hr></hr>
 <h3 align="center">
