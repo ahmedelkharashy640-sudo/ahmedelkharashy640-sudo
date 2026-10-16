@@ -1,29 +1,20 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=%2F%2F%20Hi%20Coders!%20👋%20I'm%20Ahmed%20Elkharashy%20-%20Frontend%20Developer&fontSize=18&animation=typing&fontColor=ffffff" width="100%" />
-  <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
-  <h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
-  <details>
-  <summary><b>Busy coding & Vibing to :</b></summary>
-  <br>
-  <a href="https://open.spotify.com/user/somnathpaul">
-    <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-  </details>
-  <br>
-  
-  ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=flat&color=orange&label=PROFILE+VIEWS)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-  [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+</details>
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 <hr></hr>
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
   Frontend Developer | Software Testing Engineer | HR at ICPC Damanhour & Competitive Programmer
 </h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
 ---
 ### 👨‍💻 About Me
 Computer Science student at Damanhour University bridging **Frontend Development**, **Software QA Testing**, and **Competitive Programming**. 
@@ -32,14 +23,11 @@ Computer Science student at Damanhour University bridging **Frontend Development
 * 🎯 **Problem Solving:** Passionate about algorithms and data structures using C++ and Java (ECPC Participant).
 * 👥 **Leadership:** Active HR member at ICPC Damanhour Community.
 ---
-### 🏆 Key Highlights & Achievements
+### 🏆 Key Highlights & Experience
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-%2B1%20Year%20in%20Tech-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" />
   <img src="https://img.shields.io/badge/Projects-%2B8%20Completed%20Apps-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Competitive%20Programming-ECPC%20Participant-FF0054?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedelkharashy640-sudo&theme=onedark&no-frame=true&column=6&margin-w=15" />
 </p>
 ---
 ### 🚀 Tech Stack & Tools
@@ -94,9 +82,6 @@ Computer Science student at Damanhour University bridging **Frontend Development
 ### 🐍 Contribution Activity Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/ahmedelkharashy640-sudo/ahmedelkharashy640-sudo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,12&height=120&section=footer" width="100%" />
 </p>
 ---
 ### 💡 Daily Developer Quote
