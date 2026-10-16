@@ -1,9 +1,12 @@
 <div align="center" width="50">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&height=50&lines=Hi+Coders!+👋;I'm+Ahmed+Elkharashy+🚀;Frontend+Developer+%26+QA+Engineer" alt="Typing SVG" /> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&height=50&lines=%2F%2F+Hi+Coders!+👋;%2F%2F+I'm+Ahmed+Elkharashy;%2F%2F+Frontend+Developer" alt="Typing SVG" />
+</a>
+<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace" width="40%"/><br> 
 <h2 align="center">✨𝓐𝓱𝓶𝓮𝓭_𝓔𝓵𝓴𝓱𝓪𝓻𝓪𝓼𝓱𝔂✨</h2>
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 </details>
 ![Totals Hits](https://komarev.com/ghpvc/?username=ahmedelkharashy640-sudo&style=flat&color=orange&label=PROFILE+VIEWS)
